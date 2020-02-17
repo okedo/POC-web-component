@@ -1,0 +1,11 @@
+{
+  "name": "poc-web-component",
+  "version": "0.0.1",
+  "description": "POC web component for demonstration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Spike_Doc",
+  "license": "ISC"
+}
